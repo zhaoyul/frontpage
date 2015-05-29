@@ -20,7 +20,7 @@
 		D54BC8751B17EA670023DE01 /* nvzhuang@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D54BC8711B17EA670023DE01 /* nvzhuang@3x.png */; };
 		D54BC8761B17EA670023DE01 /* xiaodian@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D54BC8721B17EA670023DE01 /* xiaodian@3x.png */; };
 		D54BC8781B17EBD30023DE01 /* dayuanfront@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D54BC8771B17EBD30023DE01 /* dayuanfront@3x.png */; };
-		D54BC87B1B1847760023DE01 /* daddian@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D54BC87A1B1847760023DE01 /* daddian@3x.png */; };
+		D54BC87B1B1847760023DE01 /* dadian@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D54BC87A1B1847760023DE01 /* dadian@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,7 +54,7 @@
 		D54BC8721B17EA670023DE01 /* xiaodian@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "xiaodian@3x.png"; sourceTree = "<group>"; };
 		D54BC8771B17EBD30023DE01 /* dayuanfront@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dayuanfront@3x.png"; sourceTree = "<group>"; };
 		D54BC8791B17F3540023DE01 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
-		D54BC87A1B1847760023DE01 /* daddian@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "daddian@3x.png"; sourceTree = "<group>"; };
+		D54BC87A1B1847760023DE01 /* dadian@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dadian@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,7 +101,7 @@
 				D54BC8771B17EBD30023DE01 /* dayuanfront@3x.png */,
 				D54BC8701B17EA670023DE01 /* nanzhuang@3x.png */,
 				D54BC8711B17EA670023DE01 /* nvzhuang@3x.png */,
-				D54BC87A1B1847760023DE01 /* daddian@3x.png */,
+				D54BC87A1B1847760023DE01 /* dadian@3x.png */,
 				D54BC8721B17EA670023DE01 /* xiaodian@3x.png */,
 				D54BC84A1B17E8FC0023DE01 /* AppDelegate.h */,
 				D54BC84B1B17E8FC0023DE01 /* AppDelegate.m */,
@@ -223,7 +223,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D54BC8761B17EA670023DE01 /* xiaodian@3x.png in Resources */,
-				D54BC87B1B1847760023DE01 /* daddian@3x.png in Resources */,
+				D54BC87B1B1847760023DE01 /* dadian@3x.png in Resources */,
 				D54BC8751B17EA670023DE01 /* nvzhuang@3x.png in Resources */,
 				D54BC8551B17E8FC0023DE01 /* Main.storyboard in Resources */,
 				D54BC8781B17EBD30023DE01 /* dayuanfront@3x.png in Resources */,
